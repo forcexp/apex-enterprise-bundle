@@ -13,6 +13,8 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "52.0",
     "packageAliases": {
-        "apex-enterprise-bundle": "0Ho7Q000000fxX6SAI"
+        "apex-enterprise-bundle": "0Ho7Q000000fxX6SAI",
+        "apex-enterprise-bundle@0.1.0-1": "04t7Q000000U1uAQAS",
+        "apex-enterprise-bundle@0.1.0-2": "04t7Q000000U1uFQAS"
     }
 }
