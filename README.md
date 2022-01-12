@@ -5,6 +5,8 @@ Package Id: 0Ho7Q000000fxX6SAI
 
 __Installation URL:__ https://login.salesforce.com/packaging/installPackage.apexp?p0=04t7Q000000U1uFQAS
 
+__SFDX Installation command:__ `sfdx force:package:install --package 04t7Q000000U1uFQAS -u $ORG_ALIAS -w 30`
+
 __Package Version Id:__ 04t7Q000000U1uFQAS
 
 #### Changed Content:
